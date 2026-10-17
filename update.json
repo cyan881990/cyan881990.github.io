@@ -1,12 +1,12 @@
 {
   "android": {
-    "versionCode": 18,
-    "versionName": "1.0.18",
+    "versionCode": 24,
+    "versionName": "1.0.24",
     "url": "https://cyan881990.github.io/download/cyanote-android.apk"
   },
   "ios": {
-    "build": 18,
-    "version": "1.0 (18)",
+    "build": 24,
+    "version": "1.0 (24)",
     "url": "https://cyan881990.github.io/download/cyanote-ios-unsigned.ipa"
   }
 }
